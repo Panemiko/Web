@@ -3,6 +3,7 @@ import {
   IoLogoGithub as GithubLogo,
   IoMdMenu as MenuIcon,
 } from 'react-icons/io'
+import { SiDiscord as DiscordLogo } from 'react-icons/si'
 
 import { Page } from '@/components/Page'
 
@@ -14,9 +15,9 @@ export default function HomePage() {
           className='bg-cover bg-center'
           style={{ backgroundImage: 'url("./background.jpg")' }}
         >
-          {/* This element serves to apply the blur on the background */}
+          {/* This element is needed to apply the blur on the background */}
           <div className='backdrop-blur-sm pb-36'>
-            <header className='flex justify-end p-6 mb-6'>
+            <header className='flex justify-end p-6 mb-20'>
               <button aria-label='Expandir menu'>
                 <MenuIcon className='fill-dark-300 h-6 w-fit' />
               </button>
@@ -30,8 +31,8 @@ export default function HomePage() {
           </div>
         </main>
         <section className='py-28 px-4' id='about'>
-          <h1 className='text-green font-bold text-center text-3xl mb-6'>
-            O que é Surredstone?
+          <h1 className='text-green font-bold text-center mx-5 text-3xl mb-6'>
+            O que é o Surredstone?
           </h1>
           <p className='text-green-50 text-center'>
             O Surredstone é um servidor de <b>Minecraft</b> focado no{' '}
@@ -119,15 +120,20 @@ export default function HomePage() {
           </h1>
           <p className='text-red-50 text-center'>
             Este projeto é de{' '}
-            <Link href='https://github.com/Surredstone'>código aberto</Link> e
-            contribuições são bem-vindas.
+            <Link target='_blank' href='https://github.com/Surredstone'>
+              código aberto
+            </Link>{' '}
+            e contribuições são bem-vindas.
           </p>
         </section>
         <footer className='bg-darker-700 py-12 text-center flex flex-col items-center'>
-          <span className='text-lg text-purple-100'>by Panem</span>
+          <span className='text-lg text-purple-100 mb-3'>by Panem</span>
           <div className='flex gap-16'>
-            <Link href='https://github.com/Surredstone'>
-              <GithubLogo />
+            <Link target='_blank' href='https://github.com/Surredstone'>
+              <GithubLogo className='text-pink-50 h-8 w-8' />
+            </Link>
+            <Link target='_blank' href='https://discord.gg/nG5ZbNMKt7'>
+              <DiscordLogo className='text-pink-50 h-8 w-8' />
             </Link>
           </div>
         </footer>
