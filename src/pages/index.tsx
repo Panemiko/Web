@@ -48,7 +48,7 @@ export default function HomePage() {
               SURREDSTONE
             </h1>
             <p className='text-center text-lg md:text-xl text-dark-50 mx-6'>
-              Explorando as possibilidades infinitas em um jogo infinito
+              Explorando as possibilidades de um jogo infinito
             </p>
           </div>
         </main>
@@ -109,7 +109,7 @@ export default function HomePage() {
           </h1>
           <p className='text-pink-50 md:col-start-4 md:col-end-10 md:text-lg text-center mb-12'>
             Nenhuma das modificações são obrigatórias, mas elas são recomendadas
-            para melhorar a experiência padrão do jogo
+            para melhorar a experiência padrão do jogo.
           </p>
           <div className='md:col-start-3 md:col-end-7 md:mb-0 md:mx-8 md:py-12 md:px-8 bg-darker-700 py-8 px-4 mb-8 rounded-2xl text-pink-50'>
             <h2 className='md:text-3xl text-center font-bold text-2xl mb-10'>
@@ -148,10 +148,10 @@ export default function HomePage() {
             Para entrar
           </h1>
           <p className='text-orange-50 md:text-lg md:col-start-4 md:col-end-10  text-center'>
-            Para <b>manter o servidor do jogo</b>, é preciso uma hospedagem
+            Para <b>manter o servidor</b>, é preciso uma hospedagem
             dedicada, então é preciso cada jogador pagar uma parte do valor.
-            Esse valor não é nada muito grande, nunca passando de <b>8 reais</b>
-            .
+            O jogo é feito na versão <b>Java do Minecraft</b>, portanto, é necessário
+            um computador capaz de executar as versões mais recentes.
           </p>
         </section>
         <section
