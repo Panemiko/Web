@@ -17,25 +17,25 @@ export default function Home() {
             <li>
               <Link
                 className="text-2xl text-violet-300 hover:text-violet-100 font-bold uppercase transition-colors"
-                href="#"
+                href="/"
               >
-                Início
+                Entrar
               </Link>
             </li>
             <li>
               <Link
                 className="text-2xl text-violet-300 hover:text-violet-100 font-bold uppercase transition-colors"
-                href="#"
+                href="/commands"
               >
-                Teste
+                Comandos
               </Link>
             </li>
             <li>
               <Link
                 className="text-2xl text-violet-300 hover:text-violet-100 font-bold uppercase transition-colors"
-                href="#"
+                href="/features"
               >
-                Coisas
+                Modificações
               </Link>
             </li>
           </ul>

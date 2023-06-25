@@ -28,6 +28,9 @@ const configuration: DocsThemeConfig = {
       </>
     );
   },
+  footer: {
+    text: "Surredstone 2023",
+  },
 };
 
 export default configuration;
