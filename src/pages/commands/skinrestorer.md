@@ -4,7 +4,7 @@ description: Comandos do plugin SkinRestorer
 ---
 # Comandos do plugin SkinRestorer
 
-## /skin <nome-da-skin>
+## /skin [nome-da-skin]
 
 Modifica sua skin para a skin do nome do jogador definido.
 

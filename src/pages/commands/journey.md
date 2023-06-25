@@ -20,11 +20,11 @@ Marca um waypoint para você se localizar até a sua última morte.
 Marca um waypoint para a superfície (útil se você estiver em uma caverna).
 
 
-## /journey setwaypoint <nome>
+## /journey setwaypoint [nome]
 
 Cria um waypoint para você no lugar que você está com o **nome** que você definiu.
 
 
-## /jt <nome-do-waypoint>
+## /jt [nome-do-waypoint]
 
 Te localiza até o waypoint com o nome indicado.

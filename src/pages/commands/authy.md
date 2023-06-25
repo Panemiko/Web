@@ -4,11 +4,11 @@ description: Comandos do plugin Authy
 ---
 # Comandos do plugin Authy
 
-## /register <senha> <senha>
+## /register [senha] [senha]
 
 Se registra com uma senha no servidor.
 
-## /login <senha>
+## /login [senha]
 
 Entra no servidor com a senha definida no comando `/register`.
 
