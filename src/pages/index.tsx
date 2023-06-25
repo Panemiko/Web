@@ -17,14 +17,6 @@ export default function Home() {
             <li>
               <Link
                 className="text-2xl text-violet-300 hover:text-violet-100 font-bold uppercase transition-colors"
-                href="/"
-              >
-                Entrar
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="text-2xl text-violet-300 hover:text-violet-100 font-bold uppercase transition-colors"
                 href="/commands"
               >
                 Comandos

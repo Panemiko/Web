@@ -9,6 +9,7 @@ const configuration: DocsThemeConfig = {
   project: {
     link: "https://github.com/Surredstone",
   },
+  docsRepositoryBase: "https://github.com/Surredstone/Web/blob/main/pages",
   darkMode: true,
   useNextSeoProps() {
     return {
