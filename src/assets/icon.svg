@@ -1,0 +1,21 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_127_2" fill="white">
+<path d="M5 22L50 41.5V95.5L5 76V22Z"/>
+</mask>
+<path d="M5 22L50 41.5V95.5L5 76V22Z" fill="#8465DB"/>
+<path d="M5 22L6.19282 19.2473L2 17.4304V22H5ZM50 41.5H53V39.5304L51.1928 38.7473L50 41.5ZM50 95.5L48.8072 98.2527L53 100.07V95.5H50ZM5 76H2V77.9696L3.80718 78.7527L5 76ZM3.80718 24.7527L48.8072 44.2527L51.1928 38.7473L6.19282 19.2473L3.80718 24.7527ZM47 41.5V95.5H53V41.5H47ZM51.1928 92.7473L6.19282 73.2473L3.80718 78.7527L48.8072 98.2527L51.1928 92.7473ZM8 76V22H2V76H8Z" fill="#413360" mask="url(#path-1-inside-1_127_2)"/>
+<path d="M50 95.5L95 76V22L50 41.5V95.5Z" fill="url(#paint0_linear_127_2)"/>
+<path d="M50 41.5L95 22L50 1L5 22L50 41.5Z" fill="#DB65C1"/>
+<path d="M19 28L64 7.5L50 1L5 22L19 28Z" fill="#A7DB65"/>
+<path d="M50 41.5L95 22L79 14.5L34 34.5L50 41.5Z" fill="#659BDB"/>
+<path d="M50 95.5L95 76V21.9999L50 41.4999V95.5Z" fill="#DB6565"/>
+<path d="M50 58.5L95 39.5V22L50 41.5V58.5Z" fill="#DB9765"/>
+<path d="M50 95.5L95 76V57.5L50 77.5V95.5Z" fill="#DBC865"/>
+<defs>
+<linearGradient id="paint0_linear_127_2" x1="94" y1="77" x2="50" y2="40" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF5555"/>
+<stop offset="0.494792" stop-color="#DB65AC"/>
+<stop offset="1" stop-color="#DB8F65"/>
+</linearGradient>
+</defs>
+</svg>
