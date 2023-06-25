@@ -16,7 +16,7 @@ export default function Home() {
           <ul className="flex gap-12">
             <li>
               <Link
-                className="text-2xl font-bold uppercase transition-all"
+                className="text-2xl text-violet-300 hover:text-violet-100 font-bold uppercase transition-colors"
                 href="#"
               >
                 Início
@@ -24,7 +24,7 @@ export default function Home() {
             </li>
             <li>
               <Link
-                className="text-2xl font-bold uppercase transition-all"
+                className="text-2xl text-violet-300 hover:text-violet-100 font-bold uppercase transition-colors"
                 href="#"
               >
                 Teste
@@ -32,7 +32,7 @@ export default function Home() {
             </li>
             <li>
               <Link
-                className="text-2xl font-bold uppercase transition-all"
+                className="text-2xl text-violet-300 hover:text-violet-100 font-bold uppercase transition-colors"
                 href="#"
               >
                 Coisas
