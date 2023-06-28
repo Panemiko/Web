@@ -5,7 +5,7 @@ import { type DocsThemeConfig, useConfig } from "nextra-theme-docs";
 import logoAsset from "@/assets/logo.svg";
 
 const configuration: DocsThemeConfig = {
-  logo: <Image src={logoAsset} className="w-1/2" alt="Logo do Surredstone" />,
+  logo: <Image src={logoAsset} alt="Logo do Surredstone" />,
   project: {
     link: "https://github.com/Surredstone",
   },
