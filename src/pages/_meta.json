@@ -1,21 +1,6 @@
 {
   "github_link": {
     "title": "Surredstone",
-    "href": "https://github.com/Suredstone"
-  },
-  "home": {
-    "title": "Início",
-    "href": "/",
-    "type": "menu"
-  },
-  "commands": {
-    "title": "Comandos",
-    "href": "/commands",
-    "type": "menu"
-  },
-  "features": {
-    "title": "Modificações",
-    "href": "/features",
-    "type": "menu"
+    "href": "https://github.com/Surredstone"
   }
 }
