@@ -1,3 +1,8 @@
+---
+title: Textura
+description: Informações sobre a textura do servidor.
+---
+
 # Textura
 
 O servidor conta com alguns plugins que adicionam novos itens, então, mesmo que não seja necessário, eu recomendo baixar a textura com esses itens. Também tem algumas outras modificações como elytras customizadas e umas melhorias no jogo.
